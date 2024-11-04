@@ -1,0 +1,16 @@
+Sasta Tareen Web Development Course
+Welcome to the Sasta Tareen Web Development Course! This repository contains the code and resources for the first orientation class, designed to help you kickstart your journey into web development.
+
+Project Structure
+The project includes a simple HTML document that demonstrates basic HTML tags and structure. This file serves as an introductory example to help beginners understand how headings, paragraphs, and basic elements are defined in HTML.
+
+HTML Structure
+Headings: Various heading tags (<h1> to <h6>) are used to demonstrate the hierarchy of content.
+Paragraph: A sample paragraph is included to show how text content can be added in HTML.
+Usage
+To view the HTML file:
+
+Download or clone this repository.
+Open the index.html file in a web browser to see the formatted content.
+License
+This project is open-source, so feel free to modify and experiment with it as you learn HTML basics.
