@@ -1,0 +1,45 @@
+Sadiq Khan's HTML Webpage Examples
+This repository contains examples of basic HTML structures and elements for practicing fundamental web development concepts. Each section demonstrates different HTML tags and their attributes, ideal for beginners learning HTML syntax and usage.
+
+Project Overview
+This project covers the following HTML elements and concepts:
+
+Headings and Paragraphs:
+Displays the main heading "Sadiq Khan" with a paragraph <p>.
+Ordered Lists:
+Example of an ordered list (<ol>) with a single item "Home".
+Forms:
+A form with various input fields, showcasing:
+Text inputs (First Name, Last Name)
+Number input (Phone Number)
+Password input
+Radio buttons for campus selection (Naimabad, Clifton)
+Checkbox for city selection
+File upload input
+Submit button
+Emojis and Formatting:
+A paragraph with bolded text (<b>) and an emoji added using HTML entity codes (&#128514;).
+Sections:
+Example of a section element (<section>) with a blog title and introductory paragraph.
+Code Breakdown
+HTML Structure
+Each file demonstrates basic HTML structure, including:
+
+DOCTYPE Declaration: <!DOCTYPE html> for defining the document type as HTML5.
+Head Section: Contains metadata such as character encoding (UTF-8), viewport settings, and document title.
+Body Section: Main content area where various HTML tags are used to display content.
+Tags and Attributes
+The code includes various tags and attributes:
+
+Block Elements: <div>, <section> to create structured content blocks.
+Form Elements: <form>, <input>, <label> with required, type, and other attributes for validation.
+Text Formatting: <b> for bold text and HTML entity codes for emojis.
+How to Use
+To view the HTML examples:
+
+Clone or download this repository.
+Open each HTML file in a web browser to see the rendered output.
+These files can serve as templates or practice materials for those new to HTML. Feel free to modify the content as you learn about HTML elements, attributes, and web page structure.
+
+License
+This project is open-source and can be freely used, modified, and shared.
