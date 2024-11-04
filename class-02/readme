@@ -1,0 +1,17 @@
+Sasta Tareen Web Development Course
+Class No. 02 - HTML Basics with Pizza Menu Example
+This repository contains the HTML code used in Class No. 02 of the Sasta Tareen Web Development Course. In this example, we introduce HTML tags for adding headings, images, videos, lists, and links to a webpage, demonstrated with a pizza menu.
+
+Features
+Main Heading: Displays the main title, "Pizza Max".
+Video Tag: Embeds a video showcasing a pizza (e.g., bakedpizza.mp4) with playback controls.
+Image Section: Displays an image of a pizza (pizza1.jpg) at a set width and height.
+Ordered List: Lists various menu items in a numbered list.
+Anchor Tags: Provides links to navigate to additional pages and an external link to PizzaMax's website.
+Usage
+Download or clone the repository.
+Open the index.html file in a web browser to view the layout and elements.
+This example helps you understand how to work with HTML elements commonly used in web development, such as multimedia, lists, and links.
+
+License
+This project is open-source. Feel free to modify and experiment as you learn HTML!
